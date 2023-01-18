@@ -1,0 +1,8 @@
+// background-home.png -> Image
+// WELCOME.png -> Icon
+
+// kalau 1 baris seperti ini (Disini jangan diapa-apain)
+
+/**
+ * comment harus begini!
+*/
